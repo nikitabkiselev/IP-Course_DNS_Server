@@ -1,0 +1,16 @@
+2025-06-01 16:16:32,615 - WARNING - Could not load cache: [Errno 2] No such file or directory: 'dns_cache.pkl'
+2025-06-01 16:16:32,615 - INFO - DNS server started on port 1025
+2025-06-01 16:17:10,146 - INFO - Received query from 127.0.0.1:65148 for mail.ru.
+2025-06-01 16:17:10,146 - INFO - Querying upstream DNS 8.8.8.8 for mail.ru.
+2025-06-01 16:17:10,209 - INFO - Received response from upstream for mail.ru.
+2025-06-01 16:17:10,209 - INFO - Sent response to 127.0.0.1:65148
+2025-06-01 16:17:35,017 - INFO - Received query from 127.0.0.1:57483 for e1.ru.
+2025-06-01 16:17:35,033 - INFO - Querying upstream DNS 8.8.8.8 for e1.ru.
+2025-06-01 16:17:35,080 - INFO - Received response from upstream for e1.ru.
+2025-06-01 16:17:35,086 - INFO - Sent response to 127.0.0.1:57483
+2025-06-01 16:17:57,197 - INFO - Received query from 127.0.0.1:63968 for ya.ru.
+2025-06-01 16:17:57,197 - INFO - Querying upstream DNS 8.8.8.8 for ya.ru.
+2025-06-01 16:17:57,246 - INFO - Received response from upstream for ya.ru.
+2025-06-01 16:17:57,246 - INFO - Sent response to 127.0.0.1:63968
+2025-06-01 16:18:24,363 - INFO - Received signal 2, shutting down...
+2025-06-01 16:18:25,366 - INFO - DNS server stopped, cache saved
