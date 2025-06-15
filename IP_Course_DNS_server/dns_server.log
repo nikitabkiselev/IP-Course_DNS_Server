@@ -1,0 +1,20 @@
+2025-06-15 14:34:45,410 - WARNING - Cache load failed (new cache will be created): [Errno 2] No such file or directory: 'dns_cache.pkl'
+2025-06-15 14:34:45,410 - INFO - Starting with empty cache
+2025-06-15 14:34:45,410 - INFO - DNS server started on port 53
+2025-06-15 14:35:45,416 - INFO - Cache saved to dns_cache.pkl
+2025-06-15 14:36:01,563 - INFO - Query from 127.0.0.1:52503 for e1.ru. (A)
+2025-06-15 14:36:01,563 - INFO - Forwarding query for e1.ru. to 8.8.8.8
+2025-06-15 14:36:02,313 - INFO - Query from 127.0.0.1:62427 for e1.ru. (AAAA)
+2025-06-15 14:36:02,313 - INFO - Forwarding query for e1.ru. to 8.8.8.8
+2025-06-15 14:36:09,244 - INFO - Query from 127.0.0.1:58155 for mail.ru. (A)
+2025-06-15 14:36:09,244 - INFO - Forwarding query for mail.ru. to 8.8.8.8
+2025-06-15 14:36:09,360 - INFO - Query from 127.0.0.1:58157 for mail.ru. (AAAA)
+2025-06-15 14:36:09,360 - INFO - Forwarding query for mail.ru. to 8.8.8.8
+2025-06-15 14:36:17,218 - INFO - Query from 127.0.0.1:51319 for dzen.ru. (A)
+2025-06-15 14:36:17,218 - INFO - Forwarding query for dzen.ru. to 8.8.8.8
+2025-06-15 14:36:17,334 - INFO - Query from 127.0.0.1:51321 for dzen.ru. (AAAA)
+2025-06-15 14:36:17,334 - INFO - Forwarding query for dzen.ru. to 8.8.8.8
+2025-06-15 14:36:30,407 - INFO - Received signal 2, shutting down gracefully...
+2025-06-15 14:36:30,407 - INFO - Shutting down server...
+2025-06-15 14:36:30,407 - INFO - Cache saved to dns_cache.pkl
+2025-06-15 14:36:30,407 - INFO - Server resources released

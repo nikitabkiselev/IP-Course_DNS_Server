@@ -1,0 +1,46 @@
+{
+  "timestamp": "2025-06-15T14:39:37.030124",
+  "cache_source": "dns_cache.pkl",
+  "records": [
+    {
+      "domain": "dzen.ru",
+      "type": "A",
+      "expires": "2025-06-15T14:41:38.334767",
+      "ttl_remaining": 121,
+      "records": [
+        "185.180.200.2",
+        "5.61.23.39"
+      ]
+    },
+    {
+      "domain": "e1.ru",
+      "type": "A",
+      "expires": "2025-06-15T14:36:08.297431",
+      "ttl_remaining": 0,
+      "records": [
+        "195.19.220.24"
+      ]
+    },
+    {
+      "domain": "mail.ru",
+      "type": "A",
+      "expires": "2025-06-15T14:36:33.360544",
+      "ttl_remaining": 0,
+      "records": [
+        "94.100.180.201",
+        "94.100.180.200",
+        "217.69.139.200",
+        "217.69.139.202"
+      ]
+    },
+    {
+      "domain": "mail.ru",
+      "type": "AAAA",
+      "expires": "2025-06-15T14:40:17.476531",
+      "ttl_remaining": 40,
+      "records": [
+        "2a00:1148:1000:101:5:4:0:200"
+      ]
+    }
+  ]
+}
